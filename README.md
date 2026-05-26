@@ -211,21 +211,9 @@ Compresses the opponent into a ZIP file, transforming them into a vulnerable Win
 
 ---
 
-# Installation
+# Download
 
-> *(Add download/build instructions here if desired)*
-
----
-
-# Media
-
-## Gameplay Video
-
-> *(Insert YouTube gameplay link here)*
-
-## Download
-
-> *(Insert itch.io page here)*
+https://pikfan.itch.io/falta-injustificada
 
 ---
 
