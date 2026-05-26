@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b248e951c348de4ab906b3a9a798dd3, type: 3}
+  m_Name: PaniData
+  m_EditorClassIdentifier: Assembly-CSharp::PaniData
+  velocidadMovimiento: 35
+  velocidadCarrera: 35
+  fuerzaSalto: 150
+  danoPunoFlojoSuelo: 15
+  danoPunoFlojoAgachado: 18
+  danoPunoFlojoAire: 28
+  danoPunoFuerteSuelo: 30
+  danoPunoFuerteAgachado: 28
+  danoPunoFuerteAire: 15
+  danoPatadaFlojaSuelo: 23
+  danoPatadaFlojaAgachado: 22
+  danoPatadaFlojaAire: 30
+  danoPatadaFuerteSuelo: 80
+  danoPatadaFuerteAgachado: 50
+  danoPatadaFuerteAire: 70
+  hitstunPunoFlojoSuelo: 0.5
+  hitstunPunoFlojoAgachado: 0.5
+  hitstunPunoFlojoAire: 1.2
+  hitstunPunoFuerteSuelo: 0.5
+  hitstunPunoFuerteAgachado: 1
+  hitstunPunoFuerteAire: 1.2
+  hitstunPatadaFlojaSuelo: 0.5
+  hitstunPatadaFlojaAgachado: 0.5
+  hitstunPatadaFlojaAire: 1.2
+  hitstunPatadaFuerteSuelo: 1.2
+  hitstunPatadaFuerteAgachado: 1.6
+  hitstunPatadaFuerteAire: 1.5
+  hitstunComando1: 2
+  hitstunComando2: 1.8
+  hitstunComando3: 1
+  scalePunoFlojoSuelo: {x: 1, y: 13.7, z: 15.2}
+  offsetPunoFlojoSuelo: {x: 0, y: 20.3, z: 20.8}
+  scalePunoFlojoAgachado: {x: 1, y: 23.9, z: 17.5}
+  offsetPunoFlojoAgachado: {x: 0, y: 11.43, z: 14.9}
+  scalePunoFlojoAire: {x: 1, y: 26.7, z: 20.05}
+  offsetPunoFlojoAire: {x: 0, y: 39.31, z: 22.13}
+  scalePunoFuerteSuelo: {x: 1, y: 15.06, z: 38}
+  offsetPunoFuerteSuelo: {x: 0, y: 16.9, z: 35.2}
+  scalePunoFuerteAgachado: {x: 1, y: 15.06, z: 38}
+  offsetPunoFuerteAgachado: {x: 0, y: 8.55, z: 35.2}
+  scalePunoFuerteAire: {x: 1, y: 20.5, z: 19.8}
+  offsetPunoFuerteAire: {x: 0, y: 13.51, z: 13.4}
+  scalePatadaFlojaSuelo: {x: 1, y: 8.5, z: 17.6}
+  offsetPatadaFlojaSuelo: {x: 0, y: 9.7, z: 21.25}
+  scalePatadaFlojaAgachado: {x: 1, y: 11.98, z: 26.2}
+  offsetPatadaFlojaAgachado: {x: 0, y: 10.9, z: 18.8}
+  scalePatadaFlojaAire: {x: 1, y: 20.1, z: 18.08}
+  offsetPatadaFlojaAire: {x: 0, y: 0.06, z: 0.04}
+  scalePatadaFuerteSuelo: {x: 1, y: 17.6, z: 31.3}
+  offsetPatadaFuerteSuelo: {x: 0, y: 27.2, z: 21.4}
+  scalePatadaFuerteAgachado: {x: 1, y: 27.7, z: 15.4}
+  offsetPatadaFuerteAgachado: {x: 0, y: 25, z: 8.65}
+  scalePatadaFuerteAire: {x: 1, y: 13.03, z: 29.1}
+  offsetPatadaFuerteAire: {x: 0, y: 3.3, z: 16.37}
+  scaleCommand1: {x: 1, y: 17.6, z: 31.3}
+  offsetCommand1: {x: 0, y: 27.2, z: 21.4}
+  scaleCommand2: {x: 1, y: 24.82, z: 24.6}
+  offsetCommand2: {x: 0, y: 25.3, z: 19.67}
+  scaleCommand3: {x: 1, y: 24.82, z: 24.6}
+  offsetCommand3: {x: 0, y: 25.3, z: 19.67}
+  tipoGolpePunoFlojoSuelo: 2
+  tipoGolpePunoFlojoAgachado: 2
+  tipoGolpePunoFlojoAire: 1
+  tipoGolpePunoFuerteSuelo: 2
+  tipoGolpePunoFuerteAgachado: 3
+  tipoGolpePunoFuerteAire: 3
+  tipoGolpePatadaFlojaSuelo: 2
+  tipoGolpePatadaFlojaAgachado: 4
+  tipoGolpePatadaFlojaAire: 3
+  tipoGolpePatadaFuerteSuelo: 2
+  tipoGolpePatadaFuerteAgachado: 1
+  tipoGolpePatadaFuerteAire: 3
+  tipoGolpeComando1: 2
+  tipoGolpeComando2: 1
+  tipoGolpeComando3: 3
+  impulsoYPunoFlojoSuelo: 4
+  impulsoZPunoFlojoSuelo: 40
+  impulsoYPunoFlojoAgachado: 4
+  impulsoZPunoFlojoAgachado: 30
+  impulsoYPunoFlojoAire: 130
+  impulsoZPunoFlojoAire: 30
+  impulsoYPunoFuerteSuelo: 7
+  impulsoZPunoFuerteSuelo: 120
+  impulsoYPunoFuerteAgachado: 100
+  impulsoZPunoFuerteAgachado: 5
+  impulsoYPunoFuerteAire: 65
+  impulsoZPunoFuerteAire: 40
+  impulsoYPatadaFlojaSuelo: 4
+  impulsoZPatadaFlojaSuelo: 8
+  impulsoYPatadaFlojaAgachado: 4
+  impulsoZPatadaFlojaAgachado: 8
+  impulsoYPatadaFlojaAire: 90
+  impulsoZPatadaFlojaAire: 0
+  impulsoYPatadaFuerteSuelo: 4
+  impulsoZPatadaFuerteSuelo: 120
+  impulsoYPatadaFuerteAgachado: 120
+  impulsoZPatadaFuerteAgachado: 6
+  impulsoYPatadaFuerteAire: 120
+  impulsoZPatadaFuerteAire: 30
+  impulsoYComando1: 4
+  impulsoZComando1: 10
+  impulsoYComando2: 4
+  impulsoZComando2: 6
+  impulsoYComando3: 80
+  impulsoZComando3: 5
+  direccionPunoFlojoSuelo: 0
+  direccionPunoFlojoAgachado: 2
+  direccionPunoFlojoAire: 1
+  direccionPunoFuerteSuelo: 0
+  direccionPunoFuerteAgachado: 2
+  direccionPunoFuerteAire: 1
+  direccionPatadaFlojaSuelo: 0
+  direccionPatadaFlojaAgachado: 2
+  direccionPatadaFlojaAire: 1
+  direccionPatadaFuerteSuelo: 1
+  direccionPatadaFuerteAgachado: 2
+  direccionPatadaFuerteAire: 1
+  animPunoFlojoSuelo: PunchS1
+  animPunoFlojoAgachado: PunchC1
+  animPunoFlojoAire: PunchA1
+  animPunoFuerteSuelo: PunchS2
+  animPunoFuerteAgachado: PunchC2
+  animPunoFuerteAire: PunchA2
+  animPatadaFlojoSuelo: KickS1
+  animPatadaFlojoAgachado: KickC1
+  animPatadaFlojoAire: KickA1
+  animPatadaFuerteSuelo: KickS2
+  animPatadaFuerteAgachado: KickC2
+  animPatadaFuerteAire: KickA2
+  danoComando1: 15
+  duracionComando1: 0.8
+  danoComando2: 150
+  danoComando3: 40
+  duracionComando3: 1
+  velocidadRetroceso: 200
+  duracionRetroceso: 0.08
+  duracionIntentaAgarre: 1
+  danoAgarre: 35
+  impulsoYAgarre: 100
+  impulsoZAgarre: 100
+  duracionHitstunAgarre: 2
+  reglasCancel:
+  - ataqueFuente: 1
+    cancelesPermitidos: 8
+  - ataqueFuente: 2
+    cancelesPermitidos: 17
+  - ataqueFuente: 16
+    cancelesPermitidos: 65536
+  - ataqueFuente: 32
+    cancelesPermitidos: 2048
+  - ataqueFuente: 64
+    cancelesPermitidos: 1
+  - ataqueFuente: 256
+    cancelesPermitidos: 65536
+  - ataqueFuente: 1024
+    cancelesPermitidos: 65552
+  - ataqueFuente: 8
+    cancelesPermitidos: 8192
+  - ataqueFuente: 512
+    cancelesPermitidos: 8192
+  sonidoMuerteRonda: {fileID: 8300000, guid: 06d5a09bb3f18ff40814c0b5df7c3c25, type: 3}
+  cargaUltimatePorGolpe: 30
+  secuenciaCommand1:
+    secuencia: 0
+    botonActivacion: 0
+  secuenciaCommand2:
+    secuencia: 3
+    botonActivacion: 1
+  secuenciaCommand3:
+    secuencia: 4
+    botonActivacion: 3
+  secuenciaCommandQCF:
+    secuencia: 1
+    botonActivacion: 2
+  secuenciaUltimate:
+    secuencia: 5
+    botonActivacion: 1
+  multVelocidadBoost: 2.93
+  duracionCommand1Start: 1
+  duracionCommand1Hover: 0
+  duracionCommand1Land: 0.4
+  elevacionHover: 0.5
+  velocidadElevacion: 2
+  impulsoYLanzadoCommand2: 80
+  impulsoZLanzadoCommand2: 30
+  duracionCommand2Start: 0.3
+  velocidadCommand2Dash: 100
+  duracionCommand2Runcycle: 0.8
+  duracionCommand2Success: 1.3
+  duracionCommand2Fail: 0.85
+  duracionCommand3Hitbox: 0.4
+  duracionCommand3Success: 0.6
+  duracionCommand3Fail: 1
+  velocidadProyectil: 20
+  tiempoVidaProyectil: 5
+  tiempoDiagonal: 1
+  inclinacionVertical: 20
+  duracionCommand4Anim: 0.5
+  impulsoPatadaFlojaAgachado: 20
+  duracionImpulsoPatadaAgachado: 1
+  animUltimate: ULTI
+  duracionUltimateAnim: 1.5
+  duracionTrampa: 3
+  duracionCaptura: 2
+  danoTrampa: 200
+  hitstunTrampa: 0.5
+  tipoGolpeTrampa: 1
+  impulsoYTrampa: 70
+  impulsoZTrampa: 4

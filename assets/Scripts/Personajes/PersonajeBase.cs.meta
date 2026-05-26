@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c80d60d94bc550841ab446a0d64d7ee3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - datosPersonaje: {instanceID: 0}
+  - oponente: {instanceID: 0}
+  - modeloHijo: {instanceID: 0}
+  - puntoAgarre: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - colliderBloqueoProximidad: {instanceID: 0}
+  - hurtboxCollider: {instanceID: 0}
+  - hurtboxAgachadoCollider: {instanceID: 0}
+  - _imagenDecenas: {instanceID: 0}
+  - _imagenUnidades: {instanceID: 0}
+  - prefabParticulasGolpe: {instanceID: 0}
+  - prefabParticulasBloqueo: {instanceID: 0}
+  - prefabVFXSalto: {fileID: 8510104671584695004, guid: bd6fcfe93239ea647a3c877763060432, type: 3}
+  - barraUltimate: {instanceID: 0}
+  - controladorWinRar: {instanceID: 0}
+  - modeloWinRar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
