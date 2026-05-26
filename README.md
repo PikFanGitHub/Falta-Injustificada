@@ -54,7 +54,7 @@ With the help of María Cotta Merino for the character select screen illustratio
 
 A mentally unstable baker who lost his sanity after spending too much time programming.
 
-![Mamalón combo](assets/Videos/MamalonCombo.mp4)
+![Mamalón combo](assets/Videos/MamalonCombo.gif)
 
 ### Playstyle
 
@@ -79,7 +79,7 @@ A mentally unstable baker who lost his sanity after spending too much time progr
 
 A religious assassin trying to redeem himself from the sins of using ChatGPT during exams.
 
-![Montero combo](assets/Videos/MonteroCombo.mp4)
+![Montero combo](assets/Videos/MonteroCombo.gif)
 
 ### Playstyle
 
@@ -104,7 +104,7 @@ A religious assassin trying to redeem himself from the sins of using ChatGPT dur
 
 A military cyborg built by the NetBeans Empire to eliminate the remaining rebels.
 
-![BR34D&W4T3R Combo](assets/Videos/PaniCombo.mp4)
+![BR34D&W4T3R Combo](assets/Videos/PaniCombo.gif)
 
 ### Playstyle
 
@@ -129,7 +129,7 @@ A military cyborg built by the NetBeans Empire to eliminate the remaining rebels
 
 A dangerous scientist responsible for creating the BR34D&W4T3R units.
 
-![Camus Combo](assets/Videos/CamusCombo.mp4)
+![Camus Combo](assets/Videos/CamusCombo.gif)
 
 ### Playstyle
 
