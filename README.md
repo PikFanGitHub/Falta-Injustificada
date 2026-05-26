@@ -2,17 +2,7 @@
 
 > A stylized 2D fighting game with 3D graphics inspired by Guilty Gear, Marvel VS Capcom, JoJo's HFTF and Street Fighter.
 
----
-
-# Screenshots
-
-> *(Add gameplay screenshots / character select / supers / stages here)*
-
-![Gameplay Screenshot](https://via.placeholder.com/1200x675)
-
-![Character Select](https://via.placeholder.com/1200x675)
-
-![Ultimate Attack](https://via.placeholder.com/1200x675)
+![Title Screen](assets/screenshots/TitleScreen.png)
 
 ---
 
@@ -58,9 +48,13 @@ With the help of María Cotta Merino for the character select screen illustratio
 
 # Characters
 
+![Character Select Screen](assets/Videos/CharacterSelect.gif)
+
 ## Mamalón — Zoner
 
 A mentally unstable baker who lost his sanity after spending too much time programming.
+
+![Mamalón combo](assets/Videos/MamalonCombo.mp4)
 
 ### Playstyle
 
@@ -77,11 +71,15 @@ A mentally unstable baker who lost his sanity after spending too much time progr
 * Teleport mixups
 * Oven ultimate that continuously spawns homing bread projectiles
 
+![Mamalón Ultimate](assets/Videos/MamalonSuper.gif)
+
 ---
 
 ## Montero — Rushdown
 
 A religious assassin trying to redeem himself from the sins of using ChatGPT during exams.
+
+![Montero combo](assets/Videos/MonteroCombo.mp4)
 
 ### Playstyle
 
@@ -98,11 +96,15 @@ A religious assassin trying to redeem himself from the sins of using ChatGPT dur
 * Powerful hair-based knockdown
 * One-hit KO ultimate attack
 
+![Montero Ultimate](assets/Videos/MonteroSuper.gif)
+
 ---
 
 ## BR34D&W4T3R — Grappler
 
 A military cyborg built by the NetBeans Empire to eliminate the remaining rebels.
+
+![BR34D&W4T3R Combo](assets/Videos/PaniCombo.mp4)
 
 ### Playstyle
 
@@ -119,11 +121,15 @@ A military cyborg built by the NetBeans Empire to eliminate the remaining rebels
 * Fast forward movement tool
 * Countdown-based ultimate attack
 
+![BR34D&W4T3R Ultimate](assets/Videos/PaniSuper.gif)
+
 ---
 
 ## Camus — Gimmick
 
 A dangerous scientist responsible for creating the BR34D&W4T3R units.
+
+![Camus Combo](assets/Videos/CamusCombo.mp4)
 
 ### Playstyle
 
@@ -153,6 +159,8 @@ Places an explosive trigger that launches opponents toward Camus.
 ### Ultimate
 
 Compresses the opponent into a ZIP file, transforming them into a vulnerable WinRAR icon.
+
+![Camus Ultimate](assets/Videos/CamusSuper.gif)
 
 ---
 
